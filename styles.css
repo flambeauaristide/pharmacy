@@ -1,0 +1,54 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin-top: 300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: skyblue;
+}
+
+.header {
+  height: 20px;
+  margin-top: 0;
+  background-color: rgb(130, 0, 11);
+}
+
+.main {
+  height: 150px;
+  margin-top: 0px;
+  background-color: white;
+}
+.name {
+  font-style: bold;
+}
+.btn {
+  width: 80px;
+  height: 50px;
+  color: white;
+  border-color: teal;
+  background-color: teal;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  background-color: rgb(130, 0, 11);
+}
+
+a:link {
+  list-style: none;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+a:visited {
+  list-style: none;
+}
+a:hover {
+  list-style: none;
+}
+a:active {
+  list-style: none;
+}
